@@ -1,0 +1,41 @@
+
+{
+    "students": [
+        {
+            "id": 1,
+            "name": "Alice Johnson",
+            "course": "Computer Science",
+            "email": "alice.johnson@example.com"
+        },
+        {
+            "id": 2,
+            "name": "Brian Smith",
+            "course": "Biology",
+            "email": "brian.smith@example.com"
+        },
+        {
+            "id": 3,
+            "name": "Chloe Brown",
+            "course": "Mathematics",
+            "email": "chloe.brown@example.com"
+        },
+        {
+            "id": 4,
+            "name": "David Wilson",
+            "course": "Psychology",
+            "email": "david.wilson@example.com"
+        },
+        {
+            "id": 5,
+            "name": "Eva Martinez",
+            "course": "History",
+            "email": "eva.martinez@example.com"
+        }
+    ],
+    "courses": [
+
+],
+"staff": [
+
+]
+}
